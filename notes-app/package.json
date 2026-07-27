@@ -2,6 +2,7 @@
   "name": "notes-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://anshuvats2021-droid.github.io/notesapp",
   "type": "module",
   "scripts": {
     "dev": "vite",
